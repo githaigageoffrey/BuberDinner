@@ -1,0 +1,11 @@
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/bin/Debug/net8.0/BuberDinner.Domain.deps.json
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/bin/Debug/net8.0/BuberDinner.Domain.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/bin/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.AssemblyInfoInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.AssemblyInfo.cs
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.csproj.CoreCompileInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/refint/BuberDinner.Domain.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/ref/BuberDinner.Domain.dll

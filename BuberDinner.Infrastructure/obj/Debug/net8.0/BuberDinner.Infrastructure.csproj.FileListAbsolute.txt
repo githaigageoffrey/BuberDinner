@@ -1,0 +1,17 @@
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.deps.json
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Infrastructure.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Application.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Domain.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Application.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDin.DE1B2DD7.Up2Date
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/refint/BuberDinner.Infrastructure.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/BuberDinner.Infrastructure.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net8.0/ref/BuberDinner.Infrastructure.dll

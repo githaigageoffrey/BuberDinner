@@ -1,0 +1,11 @@
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/bin/Debug/net8.0/BuberDinner.Contracts.deps.json
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/bin/Debug/net8.0/BuberDinner.Contracts.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/bin/Debug/net8.0/BuberDinner.Contracts.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.AssemblyInfoInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.AssemblyInfo.cs
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/refint/BuberDinner.Contracts.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/BuberDinner.Contracts.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Contracts/obj/Debug/net8.0/ref/BuberDinner.Contracts.dll

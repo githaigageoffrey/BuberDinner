@@ -1,0 +1,15 @@
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.deps.json
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Application.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Domain.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/bin/Debug/net8.0/BuberDinner.Domain.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.AssemblyInfo.cs
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDin.E7CA8231.Up2Date
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/refint/BuberDinner.Application.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/BuberDinner.Application.pdb
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Application/obj/Debug/net8.0/ref/BuberDinner.Application.dll
