@@ -9,3 +9,4 @@
 /Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/refint/BuberDinner.Domain.dll
 /Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.pdb
 /Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/ref/BuberDinner.Domain.dll
+/Users/geoffrey/Documents/Projects/Sites/Chamasoft/Chamasoftv5/DDD/BuberDinner/BuberDinner.Domain/obj/Debug/net8.0/BuberDinner.Domain.sourcelink.json
